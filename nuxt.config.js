@@ -4,7 +4,7 @@ export default {
 
   // github pagesへのデプロイに必要
   router: {
-    base: '/ug23.dev/'
+    base: '/ug23.dev/',
   },
 
   // Global page headers: https://go.nuxtjs.dev/config-head
