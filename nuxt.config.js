@@ -36,11 +36,17 @@ export default {
   modules: [
     // https://go.nuxtjs.dev/bootstrap
     'bootstrap-vue/nuxt',
-    '@nuxtjs/style-resources'
+    '@nuxtjs/style-resources',
+    'bootstrap-vue/nuxt',
   ],
 
   styleResources: {
     scss: ['~/assets/style.scss']
+  },
+
+
+  bootstrapVue: {
+    icons: true
   },
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
