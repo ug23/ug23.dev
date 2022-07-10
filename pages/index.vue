@@ -2,6 +2,7 @@
   <div>
     <PortfolioWrapper>
       <PortfolioImages />
+      <PortfolioDescription />
     </PortfolioWrapper>
   </div>
 </template>
