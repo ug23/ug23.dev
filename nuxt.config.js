@@ -43,6 +43,7 @@ export default {
     'bootstrap-vue/nuxt',
     '@nuxtjs/style-resources',
     'bootstrap-vue/nuxt',
+    ['nuxt-cname-module', { baseUrl: 'ug23.dev' }],
   ],
 
   styleResources: {

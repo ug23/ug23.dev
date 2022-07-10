@@ -19,6 +19,7 @@
     "bootstrap-vue": "^2.22.0",
     "core-js": "^3.19.3",
     "nuxt": "^2.15.8",
+    "nuxt-cname-module": "^1.1.1",
     "sass": "^1.53.0",
     "sass-loader": "^10.1.1",
     "vue": "^2.6.14",
