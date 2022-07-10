@@ -75,7 +75,7 @@
 
 <script>
 export default {
-  name: 'PortfolioDescription'
+  name: 'PortfolioDescription',
 }
 </script>
 

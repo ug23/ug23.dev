@@ -11,7 +11,7 @@
 
 <script>
 export default {
-  name: 'PortfolioImages'
+  name: 'PortfolioImages',
 }
 </script>
 

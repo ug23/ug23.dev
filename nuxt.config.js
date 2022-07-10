@@ -41,12 +41,11 @@ export default {
   ],
 
   styleResources: {
-    scss: ['~/assets/style.scss']
+    scss: ['~/assets/style.scss'],
   },
 
-
   bootstrapVue: {
-    icons: true
+    icons: true,
   },
 
   // Build Configuration: https://go.nuxtjs.dev/config-build

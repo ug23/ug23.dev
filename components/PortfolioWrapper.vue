@@ -9,7 +9,7 @@
 
 <script>
 export default {
-  name: 'PortfolioWrapper'
+  name: 'PortfolioWrapper',
 }
 </script>
 
