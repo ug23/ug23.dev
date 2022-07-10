@@ -1,8 +1,8 @@
 <template>
-  <div>
-    <img class="float-start w-25 h-25" src="recent_photo.jpg" alt="近影" />
+  <div class="img-wrapper">
+    <img class="photo p-1 rounded" src="recent_photo.jpg" alt="近影" />
     <img
-      class="float-end w-25 h-25"
+      class="photo p-1 rounded"
       src="kuma_photo.jpg"
       alt="インターネットでのアイコン"
     />
@@ -21,5 +21,13 @@ export default {
   color: $color-white;
   font-size: 32px;
   padding: 0 32px;
+}
+
+.img-wrapper {
+  display: float;
+}
+
+.photo {
+  width: 200px;
 }
 </style>
