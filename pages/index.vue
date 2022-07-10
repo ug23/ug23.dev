@@ -1,5 +1,9 @@
 <template>
-  <NuxtHome />
+  <div>
+    <PortfolioWrapper>
+      <PortfolioImages />
+    </PortfolioWrapper>
+  </div>
 </template>
 
 <script lang="ts">
