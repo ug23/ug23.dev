@@ -54,6 +54,9 @@ export default {
     icons: true,
   },
 
-  // Build Configuration: https://go.nuxtjs.dev/config-build
-  build: {},
+  build: {
+    babel: {
+      compact: true,
+    },
+  },
 }
