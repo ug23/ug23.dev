@@ -2,11 +2,6 @@ export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
 
-  // github pagesへのデプロイに必要
-  router: {
-    base: '/ug23.dev/',
-  },
-
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: 'ug23.dev',
