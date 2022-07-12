@@ -8,6 +8,19 @@
       <li>出身: 山形県山形市</li>
       <li>職種: Webアプリケーションエンジニア</li>
     </ul>
+    <h2>お仕事について</h2>
+    <h3>本業</h3>
+    <p>
+      Web系企業にてWebアプリケーションエンジニア及び<br />
+      エンジニアリングマネージャーとして従事しています
+    </p>
+    <h3>個人として</h3>
+    <p>
+      サーバーサイドを中心とした開発業務のほか、<br />
+      HubspotやSalesforceなどのCRMの導入支援や<br />
+      カスタマイズ開発業務を中心にお仕事しております
+    </p>
+
     <h2>SNS等</h2>
     <ul>
       <li>
@@ -68,7 +81,7 @@
       <li>Salesforce Marketing Cloud連携周り</li>
       <li>HubSpot連携周り</li>
     </ul>
-    <h2>連絡先</h2>
+    <h2>お仕事の依頼はこちら</h2>
     <p>TwitterのDMまたはMessenger.comからどうぞ</p>
   </div>
 </template>
