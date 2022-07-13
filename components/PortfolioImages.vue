@@ -1,9 +1,9 @@
 <template>
   <div class="img-wrapper">
-    <img class="photo p-1 rounded" src="recent_photo.jpg" alt="近影" />
+    <img class="photo p-1 rounded" src="/recent_photo.jpg" alt="近影" />
     <img
       class="photo p-1 rounded"
-      src="kuma_photo.jpg"
+      src="/kuma_photo.jpg"
       alt="インターネットでのアイコン"
     />
   </div>
