@@ -22,9 +22,9 @@
     "nuxt-cname-module": "^1.1.1",
     "sass": "^1.54.0",
     "sass-loader": "^10.1.1",
-    "vue": "^2.6.14",
+    "vue": "^2.7.9",
     "vue-server-renderer": "^2.6.14",
-    "vue-template-compiler": "^2.6.14",
+    "vue-template-compiler": "^2.7.9",
     "webpack": "^5.74.0"
   },
   "devDependencies": {
